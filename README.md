@@ -31,7 +31,7 @@ For Windows, its recommended to have Ubuntu WSL installed then installing docker
 
 1. Clone this repo
    ```sh
-   git clone 
+   git clone https://github.com/TimothyBabatu13/Ggg.git
    ```
 2. Install NPM packages
    ```sh
